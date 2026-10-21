@@ -5,9 +5,7 @@ A feature-rich, high-performance, and fully responsive E-Commerce web applicatio
 ---
 
 ## 🚀 Live Demo
-🔗 **Live URL:** [View Live Application](https://srtoreease-e-commerce-app-git-main-zain-5ef6.vercel.app/) *(Replace with your Vercel link)*
-
----
+🔗 **Live URL:** [View Live Application](https://srtoreease-e-commerce-app-git-main-zain-5ef6.vercel.app/)
 
 ## ✨ Key Features & Architecture
 
